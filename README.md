@@ -6,7 +6,7 @@ should be given a loan or not.
 
 -Also included are PowerBi Visualizations of the data, as well as an SQL script to querry the original DB
 
-![Screenshot 0](img.JPG)
+<img src="img.JPG">
 
 *Data Description*
 - The dataset was gotten from a private loan company
