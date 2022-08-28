@@ -4,6 +4,8 @@ The objective of this project is to predict the target variable; “Loan_No_Loan
 This simply means that given the parameters in the train dataset,we should be able to predict whether the customer 
 should be given a loan or not.
 
+-Also included are PowerBi Visualizations of the data, as well as an SQL script to querry the original DB
+
 *Data Description*
 - The dataset was gotten from a private loan company
 - It contains 888K records and 31 different variables like It contains columns like ID, 
