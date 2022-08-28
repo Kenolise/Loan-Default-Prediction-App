@@ -6,7 +6,7 @@ should be given a loan or not.
 
 -Also included are PowerBi Visualizations of the data, as well as an SQL script to querry the original DB
 
-<img src="img.JPG">
+![alt text](https://github.com/Kenolise/Loan-Default-Prediction-App/blob/main/img.jpg?raw=true)
 
 *Data Description*
 - The dataset was gotten from a private loan company
